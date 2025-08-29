@@ -1,6 +1,6 @@
 # Amazon-Product-Reviews-Capstone-Project-
 This project explores an Amazon product reviews dataset to analyze customer behavior, product performance, and sales trends, helping sellers improve strategies.  
-The business problem:  
+Problem Statement:  
 How can Amazon and third-party sellers better understand review trends, product performance, and customer sentiment to improve sales and customer satisfaction?
 🗂 Dataset
 - **Source**: Amazon product reviews dataset (Kaggle)  
@@ -32,11 +32,13 @@ Key Insights
 
  🛠 Tools & Skills Used
 - Excel / SQL: Data cleaning, pivot tables, calculated fields  
-- Tableau: Dashboards and storytelling (customer behavior, trends, product performance)  
+- Tableau: Dashboards and storytelling (customer behavior, trends, product performance)
+- Powerpoint: Capestone project presentaion
+- Github 
 
 
  Visualizations
-Interactive Tableau Dashboard: [ https://public.tableau.com/views/AmazonSalesCustomerReviewAnalyticsDashboard/KeyRecommendations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ]  
+Interactive Tableau Dashboard: [ https://public.tableau.com/views/AmazonSalesCustomerReviewAnalyticsDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link ]  
 
 Includes:  
 - Average Rating by Price Tier  
