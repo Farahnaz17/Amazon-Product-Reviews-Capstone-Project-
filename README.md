@@ -1,5 +1,8 @@
 # Amazon-Product-Reviews-Capstone-Project-
 This project explores an Amazon product reviews dataset to analyze customer behavior, product performance, and sales trends, helping sellers improve strategies.  
+
+Ask
+
 Problem Statement:  
 How can Amazon and third-party sellers better understand review trends, product performance, and customer sentiment to improve sales and customer satisfaction?
 🗂 Dataset
