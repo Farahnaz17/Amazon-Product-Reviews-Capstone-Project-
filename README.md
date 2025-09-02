@@ -47,7 +47,7 @@ Created aggregated tables for average ratings and sentiment scores
 Converted timestamps to month and year for trend analysis
 
 
-***Tools & Skills Used**
+**Tools & Skills Used**
 - Excel / SQL: Data cleaning, pivot tables, calculated fields  
 - Tableau: Dashboards and storytelling (customer behavior, trends, product performance)
 - Powerpoint: Capestone project presentaion
