@@ -102,7 +102,7 @@ Includes:
 
 
 
-***What I Would Do Differently**
+**What I Would Do Differently**
 
 Use advanced NLP techniques like topic modeling for deeper insights
 
@@ -113,6 +113,6 @@ Track reviewer loyalty and repeat purchases for retention strategies
 Build predictive models to forecast future review sentiment
 
 
-***Conclusion**
+**Conclusion**
 Customer reviews are a powerful lens into both product performance and customer satisfaction. By combining **price tiers, review trends, and sales analysis**, Amazon sellers can improve product quality, optimize pricing, and maximize seasonal sales opportunities.  
 
